@@ -4,5 +4,9 @@ class launch
 	{
 		System.out.println("Hello Sonu");
 	}
+	public  void main1()
+	{
+		System.out.println("Hello Sonu");
+	}
 
 }
